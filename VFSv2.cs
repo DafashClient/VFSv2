@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace purplz.CORE.FileSystem.VFSv2 {
+namespace System.IO.VFSv2 {
     class VFSv2 {
         public static Dictionary<string, object> main_system;
         public static Dictionary<string, object> main_dirs;
